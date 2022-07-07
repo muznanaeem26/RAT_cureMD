@@ -5,10 +5,10 @@ The whole research revolves around explainable AI.Explainable AI assist in inter
 2. Implementation of Explainable AI models
 
 ## Papers
-The phase i of the research is compiled in this folder where two research papers are critically analyzed.
+The phase-I of the research is compiled in this folder where two research papers are critically analyzed.
 
 ## Implementation
-The phase II is based on the implementation of the paper titles "Explainable AI for Classification using Probabilistic Logic Inference"
+The phase-II is based on the implementation of the paper titles "Explainable AI for Classification using Probabilistic Logic Inference"
 
 # Getting Started
 1. To run the above code , clone the desired reposirtory using:
